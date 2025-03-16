@@ -1,4 +1,4 @@
-# Secret_Santa_Game
+# Secret_santa_game
 
 # Overview
 The Secret Santa Event system automates the assignment of Secret Santa gift-givers among employees. It ensures a fair and randomized selection while considering past event data to prevent repeated pairings.
